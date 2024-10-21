@@ -25,8 +25,7 @@ As seguintes ferramentas foram utilizadas:
 Este primeiro script foi elaborado para criação do modelo físico do Banco de Dados E-commerce.
 
 - [Queries_and_data_insertion](queries_and_data_insertion.sql)<br>
-Este segundo script foi elaborado com alguns dados que servem como base para inserção no Banco de Dados para que o usuário possa testa-lo através de consultas.
+Este segundo script foi elaborado com alguns dados para inserção no Banco de Dados. 
 
-
-
-
+- [Consultas_BD_E-commerce](Consultas_BD_E-commerce.sql)<br>
+Este terceiro script foi elaborado com algumas queries para que o usuário possa testa-lo através de consultas.
